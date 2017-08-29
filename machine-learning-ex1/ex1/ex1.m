@@ -8,6 +8,7 @@
 %  in this exericse:
 %
 %     warmUpExercise.m
+
 %     plotData.m
 %     gradientDescent.m
 %     computeCost.m
